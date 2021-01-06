@@ -1,7 +1,7 @@
-## APACHE2-MYSQL-MONITOR-SHELL-SCRIPT
+# APACHE2-MYSQL-MONITOR-SHELL-SCRIPT
 
 
-  **Script to monitor the apache2 and mysql while its down it will automatically restart the apache2 and mysql services.**
+**Script to monitor the apache2 and mysql while its down it will automatically restart the apache2 and mysql services.**
 
     
    * Download the script.
